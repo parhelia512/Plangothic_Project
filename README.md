@@ -115,7 +115,7 @@
 ## 其他说明
 1. 任何人都可以参与到遍黑体项目的制作中，但需确保您对地区字形、字形美观、软件使用、Unicode 等方面有一定的基础，关于此方面可加入该项目的 QQ 群 [1135661191](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HvSdPx6z78suzTz51M3xGe-gENeaa1yc&authKey=eHjDZI54yDVbhyFjQqA2ImtV35LFy%2Fit8EuAzVDscVPcACE23L0hT314LiU9ey2%2F&noverify=0&group_code=1135661191) 进行详细商讨质询。
 2. 本项目长期招贤纳士，您可以动用自己的一份力，让身边更多的人了解该企划。我们也欢迎字体制作方面的技术人才，欢迎大家继续完善该项目，您可以通过上面的联系方式与作者联系。遍黑体项目的发展离不开你们的宣传和鼓励。
-3. 本项目成员并不是专业的字体设计师，所以会导致字体的字形结构可能不甚美观，补字与原版相比可能略有违和感。此外由于成员的时间与精力有限，项目并没有多余的时间精修，部分汉字的部件拼接会很生硬，因此我们无法保证字体本身数据的准确性及预期呈现效果在您的设备是否能够完美复现，作者不对本字体作任何明示或暗示的保证，亦不承担您使用该字体所产生的任何索赔、损害或可归责事由而来的任何责任。
+3. 本项目成员并不是专业的字体设计师，所以会导致字体的字形结构可能不甚美观，补字与原版相比可能略有违和感。此外由于成员的时间与精力有限，项目并没有多余的时间精修，部分汉字的部件拼接会很生硬，因此无法保证字体本身数据的准确性及预期呈现效果在你的设备是否能够完美复现，作者不对本字体作任何明示或暗示的保证，亦不承担您使用该字体所产生的任何索赔、损害或可归责事由而来的任何责任。
 4. 本字体包含的部分国标字形**未完全遵循**[Unicode官方码表文件](https://www.unicode.org/charts/)中所展示的字形，介意者请勿使用。
 5. 本项目部分或全部借用或参考了其他工具或开源字体项目，主要包括：
     - [思源黑体](https://github.com/adobe-fonts/source-han-sans)。
@@ -131,7 +131,7 @@
     - [白易](https://github.com/yi-bai)所开发的[字统网](https://zi.tools)。
     - [Gothic Nguyen（阮黑体）](https://github.com/TKYKmori/Gothic-Nguyen)。
     - [Unicode官方码表文件](https://www.unicode.org/charts/)。
-    - [Unihan数据库](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Unihan数据库](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip)。
     - [Losketch](https://github.com/Losketch)所开发的[落尘无衬](https://github.com/Losketch/LorchinSans)。
 6. 该项目的字形资料由 [Hulenkius](https://github.com/Hulenkius) 通过 SVG 文件进行线上使用，使用者可以通过「<https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg>」链接获取。
 
@@ -148,7 +148,7 @@
 2. **Planwritzen Project（遍蕤体项目）**：基于 Fitzgerald 自己的手写体，并以遍黑体项目中的字形为标准的字体项目，其字符收录范围暂定为思源黑体+遍黑体（或可能会有字符范围的扩充）。
     - **项目状态**：已创设项目本体，但未创建项目主页。
 3. **Planschrift Project（遍玨体项目）**：基于汇文明朝体，对中日韩越统一表意文字扩展区进行字形补充的项目，其字符收录范围暂定为在汇文明朝体的字符范围基础上扩充至思源黑体+遍黑体。
-    - **项目状态**：已创设项目本体，但未创建项目主页。
+    - **项目状态**：已创设项目本体和[项目主页](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project)，但未完成。
 4. **Planseal Project（遍篆体项目）**：基于《说文解字》小篆体，对中日韩越统一表意文字扩展区进行字形补充的项目。
     - **项目状态**：未创设项目本体和项目主页，项目名称暂定。
 5. **Planicon Project（遍象体项目）**：基于字统网中部分汉字图标的字形补充的项目，其字符收录范围暂定为基本区和扩展A区，其他汉字区块散有字形。
