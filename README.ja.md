@@ -91,9 +91,9 @@ Android フォンに Plangothic TTC フォントをインストールする手�
 また、上記の方法はアップル携帯電話のユーザーには**適用されず**、アップル携帯電話のユーザーに対するインストール方法も提供できないことに注意してください、ご了承ください。
 
 ## 連絡先
+このフォントを使用する過程で何か問題やアドバイスがあれば、フィードバックを歓迎します。プロジェクトにissueを提出することができます（無関係な内容の提出は厳禁）、あるいは以下の連絡先を通じてフィードバックすることができます：
 - GitHub：https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - ツイッター：https://twitter.com/Fitzgerald_P_K_/
-- グリフウィキ：http://zhs.glyphwiki.org/wiki/User:fitzgerald
 - メール：374601620@qq.com（代替メール：fitzgeraldkoenigsegg@gmail.com）
 
 ## その他の説明
@@ -115,7 +115,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
     - [白易](https://github.com/yi-bai)氏による[Zitools](https://zi.tools)。
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen)。
     - [Unicodeグラフファイル](https://www.unicode.org/charts/)。
-    - [Unihanデータベース](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Unihanデータベース](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip)。
     - [Losketch](https://github.com/Losketch)氏による[落尘無襯](https://github.com/Losketch/LorchinSans)。
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
@@ -132,7 +132,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
 2. **Planwritzen Project（プランライト・プロジェクト、中国語：遍蕤體項目、遍蕤体项目）**：Fitzgerald 独自の手書き体ベースに、プランゴシック・プロジェクト中のグリフを標準とするフォントプロジェクトであり、その文字収録範囲は暫定的源ノ角ゴシック+プランゴシック・プロジェクト（または文字範囲の拡張が可能）。
     - **プロジェクトステータス**：プロジェクト本体は作成されていますが、プロジェクトホームページは作成されていません。
 3. **Planschrift Project（プランシェフト・プロジェクト、中国語：遍玨體項目、遍玨体项目）**：Huiwen-Mincho（匯文明朝）ベースに、CJK 統合漢字拡張ブロックを補完するフォントの作成を目指すプロジェクトです、その文字収録範囲は暫定的に匯文明朝体の文字範囲をベースにして源ノ角ゴシック+プランゴシック・プロジェクトに拡張すると暫定的に設定されている。
-    - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページは作成されておらず。
+    - **プロジェクトステータス**：プロジェクト本体と[プロジェクトホームページ](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project)を作成しましたが、完了していません。
 4. **Planseal Project（プランシール・プロジェクト、中国語：遍篆體項目、遍篆体项目）**：『説文解字』小篆ベースに、CJK 統合漢字拡張ブロックを補完するフォントの作成を目指すプロジェクトです。
     - **プロジェクトステータス**：プロジェクト本体とプロジェクトホームページは作成されておらず、プロジェクト名は暫定的である。
 5. **Planicon Project（プランイコン・プロジェクト、中国語：遍象體項目、遍象体项目）**：Zitoolsにおける漢字アイコンの一部にベースづくグリフ補足のプロジェクト，その文字収録範囲は暫定的に URO と拡張 A であり、そ他 CJK 統合漢字拡张のブロックは部分的にのみ実装されています。

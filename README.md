@@ -105,10 +105,9 @@
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.svg)
 
 ## 联系方式
-您在使用本字体的过程中如有任何问题和建议，欢迎反馈。您可在项目中提交issue（严禁提交无关内容），也可以通过下列联系方式进行反馈：
+在使用本字体的过程中如有任何问题和建议，欢迎反馈。可在项目中提交issue（严禁提交无关内容），也可以通过下列联系方式进行反馈：
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
-- 字形维基: http://zhs.glyphwiki.org/wiki/User:fitzgerald
 - 邮箱: 374601620@qq.com（备用邮箱：fitzgeraldkoenigsegg@gmail.com）
 - QQ: 374601620
 

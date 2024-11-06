@@ -105,17 +105,16 @@
 ![Image text](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic/blob/main/pic/1650383987393.svg)
 
 ## 联系方式
-您在使用本字體的過程中如有任何問題和建議，歡迎反饋。您可在項目中提交issue（嚴禁提交無關內容），也可以通過下列聯繫方式進行反饋：
+在使用本字體的過程中如有任何問題和建議，歡迎反饋。可在項目中提交issue（嚴禁提交無關內容），也可以通過下列聯繫方式進行反饋：
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
-- 字形維基: http://zhs.glyphwiki.org/wiki/User:fitzgerald
 - 郵箱: 374601620@qq.com（備用郵箱：fitzgeraldkoenigsegg@gmail.com）
 - QQ: 374601620
 
 ## 其他說明
 1. 任何人都可以參與到遍黑體項目的製作中，但需確保您對地區字形、字形美觀、軟體使用、Unicode等方面有一定的基礎，關於此方面可加入該項目的QQ群[1135661191](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HvSdPx6z78suzTz51M3xGe-gENeaa1yc&authKey=eHjDZI54yDVbhyFjQqA2ImtV35LFy%2Fit8EuAzVDscVPcACE23L0hT314LiU9ey2%2F&noverify=0&group_code=1135661191)進行詳細商討質詢。另外，本項目目前只有這一個用來交流的討論組，由於某些原因，我們無任何海外討論群組（Telegram、Discord等），給您帶來的不便深表歉意。
 2. 本項目長期招賢納士，您可以動用自己的一份力，讓身邊更多的人瞭解該企劃。我們也歡迎字體製作方面的技術人才，歡迎大家繼續完善該項目，您可以通過上面的聯繫方式與作者聯系。遍黑體項目的發展離不開你們的宣傳和鼓勵。
-3. 本項目成員並不是專業的字體設計師，所以會導致字體的字形結構可能不甚美觀，補字與原版相比可能略有違和感。此外由於成員的時間與精力有限，項目並沒有多餘的時間精修，部分漢字的部件拼接會很生硬，因此，我們無法保證字體本身數據的準確性及預期呈現效果在您的設備是否能够完美複現，作者不對本字體作任何明示或暗示的保證，亦不承擔您使用該字體所產生的任何索賠、損害或可歸責事由而來的任何責任。
+3. 本項目成員並不是專業的字體設計師，所以會導致字體的字形結構可能不甚美觀，補字與原版相比可能略有違和感。此外由於成員的時間與精力有限，項目並沒有多餘的時間精修，部分漢字的部件拼接會很生硬，因此無法保證字體本身數據的準確性及預期呈現效果在您的設備是否能够完美複現，作者不對本字體作任何明示或暗示的保證，亦不承擔您使用該字體所產生的任何索賠、損害或可歸責事由而來的任何責任。
 4. 本字體包含的部分國標字形**未完全遵循**[Unicode官方碼表文件](https://www.unicode.org/charts/)中所展示的字形，介意者請勿使用。
 5. 本項目部分或全部借用或參考了其他工具或開源字體項目，主要包括：
     - [思源黑體](https://github.com/adobe-fonts/source-han-sans)。
@@ -131,7 +130,7 @@
     - [白易](https://github.com/yi-bai)所開發的[字統網](https://zi.tools)。
     - [Gothic Nguyen（阮黑體）](https://github.com/TKYKmori/Gothic-Nguyen)。
     - [Unicode官方碼表文件](https://www.unicode.org/charts/)。
-    - [Unihan數據庫](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)。
+    - [Unihan數據庫](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip)。
     - [Losketch](https://github.com/Losketch)所開發的[落尘無襯](https://github.com/Losketch/LorchinSans)。
 6. 該項目的字形資料由[Hulenkius](https://github.com/Hulenkius)通過SVG檔案進行線上使用，使用者可以通過「<https://seeki.vistudium.top/SVG/{小寫的漢字十六進制碼位}.svg>」鏈接獲取。
 
@@ -148,7 +147,7 @@
 2. **Planwritzen Project（遍蕤體項目）**：基於Fitzgerald自己的手寫體，並以遍黑體項目中的字形為標準的字體項目，其字元收錄範圍暫定為思源黑體+遍黑體（或可能會有字元範圍的擴充）。
     - **項目狀態**：已創設項目本體，但未創建項目主頁。
 3. **Planschrift Project（遍玨體項目）**：基於匯文明朝體，對中日韓越統一表意文字擴展區進行字形補充的項目，其字元收錄範圍暫定為在匯文明朝體的字元範圍基礎上擴充至思源黑體+遍黑體。
-    - **項目狀態**：已創設項目本體，但未創建項目主頁。
+    - **項目狀態**：已創設項目本體和[項目主頁](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project)，但未完成。
 4. **Planseal Project（遍篆體項目）**：基於《說文解字》小篆體，對中日韓越統一表意文字擴展區進行字形補充的項目。
     - **項目狀態**：未創設項目本體和項目主頁，項目名稱暫定。
 5. **Planicon Project（遍象體項目）**：基於字統網中部分漢字圖標的字形補充的項目，其字元收錄範圍暫定為基本區和擴展A區，其他漢字區塊散有字形。

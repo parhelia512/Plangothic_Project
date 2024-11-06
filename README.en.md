@@ -94,7 +94,6 @@ Please note that the above methods are **NOT applicable** to Apple phone users a
 If you have any questions or suggestions during the use of this font, please feel free to provide feedback. You can submit an issue in the project (unrelated content is strictly prohibited), or you can provide feedback through the following contact information:
 - GitHub: https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 - Twitter: https://twitter.com/Fitzgerald_P_K_/
-- GlyphWiki: http://zhs.glyphwiki.org/wiki/User:fitzgerald
 - E-mails: 374601620@qq.com (Backup email: fitzgeraldkoenigsegg@gmail.com)
 
 ## Other instructions
@@ -106,7 +105,7 @@ If you have any questions or suggestions during the use of this font, please fee
     - [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
     - Other fonts in the Noto series.
     - [Glyphwiki](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8) and KAGE Engine developed by [Kamichi Koichi](https://twitter.com/kamichikoichi).
-    - [すきまゴシック（Sukima Gothic）](https://oppekebekkanko.booth.pm/items/2117070).
+    - [Sukima Gothic (すきまゴシック)](https://oppekebekkanko.booth.pm/items/2117070).
     - [Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode) developed by [My1l](https://github.com/MY1L).
     - [Chiron Hei HK](https://github.com/chiron-fonts/chiron-hei-hk)。
     - [Zhudou-Sans](https://github.com/Buernia/Zhudou-Sans) developed by [Buernia](https://github.com/Buernia).
@@ -116,7 +115,7 @@ If you have any questions or suggestions during the use of this font, please fee
     - [Zitools](https://zi.tools) developed by [Yi Bai](https://github.com/yi-bai).
     - [Gothic Nguyen](https://github.com/TKYKmori/Gothic-Nguyen).
     - [Unicode charts file](https://www.unicode.org/charts/).
-    - [Unihan database](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip).
+    - [Unihan database](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip).
     - [Lorchin Sans](https://github.com/Losketch/LorchinSans) developed by [Losketch](https://github.com/Losketch).
 6. The glyphs data of this project is provided online by [Hulenkius](https://github.com/Hulenkius) through SVG files. Users can obtain them through the link "https://seeki.vistudium.top/SVG/{lowercase_glyphs_hexadecimal_code}.svg".
 
@@ -134,7 +133,7 @@ Founded by Fitzgerald in December 2023 and includes several sub-projects current
 2. **Planwritzen Project (Chinese: 遍蕤体项目)**: Based on Fitzgerald's own handwriting and using the Plangothic Project as the standard. Character range set to align with the Source Han Sans + Plangothic Project temporarily (or there may be an extension).
     - **Status**: Created project without homepage. Uncompleted.
 3. **Planschrift Project (Chinese: 遍玨体项目)**: Based on Huiwen-mincho supplementing the CJK Unified Ideographs Extension blocks. Temporary character range expanded from the range of Huiwen-mincho to Source Han Sans + Plangothic Project.
-    - **Status**: Not created.
+    - **Status**: Created project and its [homepage](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Planschrift_Project). Uncompleted.
 4. **Planseal Project (Chinese: 遍篆体项目)**: Based on the seal script in *Shuowen Jiezi* and as the standard to supplement the CJK Unified Ideographs Extension blocks.
     - **Status**: Not created. Name tentative.
 5. **Planicon Project (Chinese: 遍象体项目)**: Based on CJK ideographs icons in the [Zi.tools](https://zi.tools/) and as the standard to supplement the CJK Unified Ideographs Extension blocks. Temporary character range set to URO and Extension A. Other ideographs are partly available.
