@@ -23,7 +23,7 @@ This font mainly supports all CJK ideographs from extension B to extension J, wi
 > This font is currently uncompleted and still lacks large numbers of CJK ideographs.
 ## Contributors
 - Main: **[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**, [Usagixineist](https://github.com/Usagixineist), [Cod'dte](https://github.com/buwuzhengyedexiaoji), [PakMa Tsyn](https://github.com/PakMaTsyn)
-- Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), Humework
+- Collab: Magnetshroom、[Mukuro](https://github.com/Hayashizawa), [Humework](https://github.com/Humework-Gollayosh-Carzonharch-Hu)
 - Assistants: [0xAA55](https://github.com/0xAA55), [Baysoftware](https://github.com/yi-bai), Boris Ivanovich, [Henry Chan](https://github.com/hfhchan), [Hulenkius](https://github.com/Hulenkius), [Siphercase](https://github.com/Siphercase), [Losketch](https://github.com/Losketch)
 
 There are also many other people who have supported and participated in the project. We would like to thank them.
