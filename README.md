@@ -24,7 +24,7 @@
 >
 > 该字体目前处于未完成阶段，仍然缺少大量汉字。
 ## 贡献者
-- 主制作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[WAAO-SCREAMER](https://github.com/WAAO-SCREAMER)、[PakMa Tsyn](https://github.com/PakMaTsyn)
+- 主制作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[WAAO-SCREAMER](https://github.com/WAAO-SCREAMER)
 - 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Humework](https://github.com/Humework-Gollayosh-Carzonharch-Hu)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Losketch](https://github.com/Losketch)
 
