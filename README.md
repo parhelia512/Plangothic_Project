@@ -25,7 +25,7 @@
 > 该字体目前处于未完成阶段，仍然缺少大量汉字。
 ## 贡献者
 - 主制作：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[WAAO-SCREAMER](https://github.com/WAAO-SCREAMER)
-- 联合制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Humework](https://github.com/Humework-Gollayosh-Carzonharch-Hu)
+- 联合制作：Magnetshroom、[Humework](https://github.com/Humework-Gollayosh-Carzonharch-Hu)
 - 其他技术协助：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Losketch](https://github.com/Losketch)
 
 还有不少其他曾经向遍黑体项目给予支持、参与制作的人员，也在此对他们表示感谢。
@@ -56,17 +56,13 @@
 ## 常见问题
 ### 1. 为什么遍黑体是两个字体文件？
 - 因为一个字体所能容纳的字形数量有限（65535 个），而表意文字的总数量远大于这个值。
-### 2. P1名称中的fallback和allideo有什么区别？
-- fallback文件适用于目前已安装的字体**能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将空而不书。allideo文件适用于目前已安装的字体**不能显示**全部汉字的用户，其中还没有制作黑体的汉字部分将使用花园明朝（Hanazono Mincho）补充之。两个字体文件均可以了解到目前遍黑体的制作进度如何，当本项目已经完全覆盖所有汉字的时候，fallback文件将会消失。
-### 3. 为什么只有P1的字体文件是两个类别？
-- 因为P2所涵盖的扩展G区、扩展H区、扩展J区的表意文字均已全部制作完毕，毋须再进行划分。
-### 4. 为什么这个项目包含少量基本区和扩展 A 区的汉字？
+### 2. 为什么这个项目包含少量基本区和扩展 A 区的汉字？
 - 因为本项目的宗旨是「基于[思源黑体](https://github.com/adobe-fonts/source-han-sans)进行的补充」，如需显示基本区和扩展 A 区的表意文字，直接使用思源黑体即可。本项目中所包含的零星的基本区和扩展 A 区的表意文字均为在 Unicode 内**有字形改动或者不符合本项目宗旨**的表意文字。本项目在添加这些表意文字之前均已与其他主流字体和 Unicode 码表内字形进行过比对。
-### 5. 未来是否会做包含其他字重（或其他地区字形）的版本？
+### 3. 未来是否会做包含其他字重（或其他地区字形）的版本？
 - 因为本项目工程量过于庞大，所以不会有此打算。若您有类似想法，可自行制作有关于您需求的该项目的衍生字体版本。
-### 6. 为什么这个项目里的字体没有复杂文种排版（ℂomplex 𝕋ext 𝕃ayout, CTL）或是异体字选择器（𝕀deographs 𝕍ariation 𝕊electors, IVS）功能？
+### 4. 为什么这个项目里的字体没有复杂文种排版（ℂomplex 𝕋ext 𝕃ayout, CTL）或是异体字选择器（𝕀deographs 𝕍ariation 𝕊electors, IVS）功能？
 - 因为本项目的字体使用性质侧重于工具字体、亦即不负责排版仅负责显示（类似于[Unifont](https://unifoundry.com/unifont)和[绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)），使用复杂文种处理准确地排版这些语言文字，或是使用异体字选择器显示其它地区字形的功能**并不在**本项目的涵盖范围内。若您有类似的想法，可自行制作满足您需求的衍生字体。
-### 7. 本项目的TTC字体（即多个TrueType字体的合并）是否可以直接用于手机或在软件中使用？即是否可以直接安装在手机上并显示所有字形？遇到的问题是否适用于所有软件平台，或者只限于特定平台？
+### 5. 本项目的TTC字体（即多个TrueType字体的合并）是否可以直接用于手机或在软件中使用？即是否可以直接安装在手机上并显示所有字形？遇到的问题是否适用于所有软件平台，或者只限于特定平台？
 - 本项目的TTC字体适用于Windows平台，可以正常使用。因为其他原因，对于手机设备直接安装TTC字体文件只能显示其中的一个字形（通常是P1），无法同时显示所有字形。在软件中使用时，可能需要特殊设置才能显示TTC字体中的所有字形。不同平台对TTC字体的兼容性可能有所不同，但大多数情况需要额外步骤。
 
 #### 附：将遍黑体安装至Windows平台并全局Fallback的方法：
@@ -121,7 +117,7 @@
     - [思源黑体](https://github.com/adobe-fonts/source-han-sans)。
     - Noto 系列里的其他字体。
     - [上地宏一](https://twitter.com/kamichikoichi)所开发的[字形维基](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)及 KAGE Engine。
-    - [すきまゴシック（Sukima Gothic、隙间黑体）](https://oppekebekkanko.booth.pm/items/2117070)。
+    - [oppekebekkanko](https://oppekebekkanko.booth.pm/)所开发的[すきまゴシック（Sukima Gothic、隙间黑体）](https://oppekebekkanko.booth.pm/items/2117070)。
     - [绵云饴里](https://github.com/MY1L)所开发的[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
     - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)。
     - [奈白不弍](https://github.com/Buernia)所开发的[煮豆黑体](https://github.com/Buernia/Zhudou-Sans)。
@@ -133,6 +129,7 @@
     - [Unicode官方码表文件](https://www.unicode.org/charts/)。
     - [Unihan数据库](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip)。
     - [Losketch](https://github.com/Losketch)所开发的[落尘无衬](https://github.com/Losketch/LorchinSans)。
+    - [ぼんのう堂](https://shokaki.booth.pm)所开发的[しょかき変体仮名ゴチック（Shokaki Hentaigana Gothic）](https://shokaki.booth.pm/items/5633978)。
 6. 该项目的字形资料由 [Hulenkius](https://github.com/Hulenkius) 通过 SVG 文件进行线上使用，使用者可以通过「<https://seeki.vistudium.top/SVG/{小写的汉字十六进制码位}.svg>」链接获取。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`的显示结果将会是：

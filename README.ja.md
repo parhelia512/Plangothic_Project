@@ -24,7 +24,7 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 > このフォントは現在未完成の段階にあり、まだ大量の漢字が不足している。
 ## 主な開発メンバー
 - 制作コア：**[Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg)**、[Usagixineist](https://github.com/Usagixineist)、[WAAO-SCREAMER](https://github.com/WAAO-SCREAMER)
-- 共同制作：Magnetshroom、[Mukuro](https://github.com/Hayashizawa)、[Humework](https://github.com/Humework-Gollayosh-Carzonharch-Hu)
+- 共同制作：Magnetshroom、[Humework](https://github.com/Humework-Gollayosh-Carzonharch-Hu)
 - 技術協力：[0xAA55](https://github.com/0xAA55)、[Baysoftware](https://github.com/yi-bai)、Boris Ivanovich、[Henry Chan](https://github.com/hfhchan)、[Hulenkius](https://github.com/Hulenkius)、[Losketch](https://github.com/Losketch)
 
 その他、これまでにご協力とご支援を頂いた方々にも、心より感謝を申し上げます。
@@ -53,17 +53,13 @@ Plangothic Project（プランゴシックプロジェクト、中国語：遍�
 ## よくある質問
 ### 1. なぜ Plangothic のフォントファイルは 2 つあるのですか？
 - 1 フォントファイルあたりの最大グリフ数は 65535 に制限されていますが、CJK 統合漢字の数はこれよりはるかに多いからです。
-### 2. P1のfallback版とallideo版の違いは何ですか？
-- fallback版は、すべてのCJK統合漢字を**表示できるフォントが**現在インストールされているユーザーに適用されます、未作成の漢字部分は表示されません。Allideo版は、すべてのCJK統合漢字を**表示できないフォントが**現在インストールされているユーザーに適用されます、未作成の漢字を花園明朝（Hanazono Mincho）で補足される。どちらのファイルも、最新の進捗状況を反映しています。このプロジェクトがすべてのCJK統合漢字を完全に上書きした場合、fallback版はなくなります。
-### 3. なぜP1だけが2種類に分かれているのですか？
-- P2に含まれる拡張G、拡張H、拡張Jの漢字は全て制作済みなので、区分する必要がないからです。
-### 4. なぜこのプロジェクトには URO（基本ブロック）と拡張 A の漢字が少量含まれているのですか？
+### 2. なぜこのプロジェクトには URO（基本ブロック）と拡張 A の漢字が少量含まれているのですか？
 - 本プロジェクトの趣旨は「[源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)ベースの補完」であるため、URO と拡張 A の CJK 漢字を表示したい場合は、そのまま源ノ角ゴシックを使用できます。本プロジェクトに含まれるまばらな URO と拡張 A の文字は、いずれも Unicode でグリフ変更があったり、本プロジェクトの趣旨に合わない文字です。これらの漢字を追加する前には、他の主なフォントや Unicode コード表のグリフと比較しています。
-### 5. 将来、他のウェイト（または他地域のグリフ）を追加する予定はありますか？
+### 3. 将来、他のウェイト（または他地域のグリフ）を追加する予定はありますか？
 - このプロジェクトの作業量は膨大なため、その予定はありません。ご関心のある方は、各自で派生フォントを作成することができます。
-### 6.なぜこのフォントに複雑なテキストレイアウト（ℂomplex 𝕋ext 𝕃ayout, CTL）や異体字セレクタ（𝕀deographs 𝕍ariation 𝕊electors, IVS）がないのでしょうか？
+### 4.なぜこのフォントに複雑なテキストレイアウト（ℂomplex 𝕋ext 𝕃ayout, CTL）や異体字セレクタ（𝕀deographs 𝕍ariation 𝕊electors, IVS）がないのでしょうか？
 - 当プロジェクトは、[Unifont](https://unifoundry.com/unifont)、あるいは[綿雲飴里](https://github.com/MY1L)が開発した[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)と同じく、字形を表示するための補助フォントとして開発されており、組版への使用は想定していません。CTL を用いてこれらの文字を組版すことは、このプロジェクトの対象外である、同様に、異体字セレクタ（**I**deographs **V**ariation **S**elector, IVS）も本プロジェクトの対象外です。ご関心のある方は、各自で派生フォントを作成することができます。
-### 7. このプロジェクトで使用されているTTCフォント（複数のTrueTypeフォントの集合体）は、スマートフォンやソフトウェアで直接使用することができますか？ すべてのフォントスタイルを一度に表示するために、電話にインストールすることはできますか？ ソフトウェアプラットフォーム間で互換性の問題がありますか、それとも特定のプラットフォームに限定されていますか？
+### 5. このプロジェクトで使用されているTTCフォント（複数のTrueTypeフォントの集合体）は、スマートフォンやソフトウェアで直接使用することができますか？ すべてのフォントスタイルを一度に表示するために、電話にインストールすることはできますか？ ソフトウェアプラットフォーム間で互換性の問題がありますか、それとも特定のプラットフォームに限定されていますか？
 - このプロジェクトのTTCフォントはWindowsプラットフォームと互換性があり、そこでシームレスに動作します。ただし、モバイルデバイスでは、通常の方法でTTCフォントファイルを直接インストールすると、テクニカルの制約により通常P1のフォントスタイルのみが表示されることがあります。ソフトウェアアプリケーション内ですべてのフォントスタイルを表示するには、特別な構成が必要な場合があります。TTCフォントとの互換性は、さまざまなプラットフォームで異なる場合があり、追加の手順が必要なことがよくあります。
 
 #### 付属：WindowsプラットフォームにPlangothicをインストールし、グローバルなフォールバックフォントとして設定する方法：
@@ -106,7 +102,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
     - [源ノ角ゴシック](https://github.com/adobe-fonts/source-han-sans)。
     - 他の Noto フォント。
     - [上地宏一](https://twitter.com/kamichikoichi)氏による[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%9a%e3%83%bc%e3%82%b8)と KAGE Engine。
-    - [すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)。
+    - [oppekebekkanko](https://oppekebekkanko.booth.pm/)氏による[すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)。
     - [綿雲飴里](https://github.com/MY1L)氏による[Noto Unicode](https://github.com/MY1L/Unicode/tree/main/NotoUnicode)。
     - [Chiron Hei HK（昭源黑體）](https://github.com/chiron-fonts/chiron-hei-hk)。
     - [奈白不弍](https://github.com/Buernia)氏による[Zhudou-Sans（煮豆黑體）](https://github.com/Buernia/Zhudou-Sans)。
@@ -118,6 +114,7 @@ Android フォンに Plangothic TTC フォントをインストールする手�
     - [Unicodeグラフファイル](https://www.unicode.org/charts/)。
     - [Unihanデータベース](https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip)。
     - [Losketch](https://github.com/Losketch)氏による[落尘無襯](https://github.com/Losketch/LorchinSans)。
+    - [ぼんのう堂](https://shokaki.booth.pm)氏による[しょかき変体仮名ゴチック](https://shokaki.booth.pm/items/5633978)。
 6. このプロジェクトの文字データは[Hulenkius](https://github.com/Hulenkius)によって SVG ファイルを使用してオンラインで提供されています。ユーザーは「<https://seeki.vistudium.top/SVG/{小文字の漢字の 16 進コードポイント}.svg>」リンクを使用して取得することができます。
 
     例：`<img src="https://seeki.vistudium.top/SVG/2ebf0.svg"/>`の表示結果は次のようになります：
